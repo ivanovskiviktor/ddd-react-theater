@@ -13,4 +13,11 @@
         <maven.compiler.target>15</maven.compiler.target>
     </properties>
 
+    <modules>
+        <module>customer-management</module>
+        <module>play-management</module>
+        <module>reservation-management</module>
+        <module>shared-kernel</module>
+    </modules>
+
 </project>
